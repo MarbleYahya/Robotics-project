@@ -116,5 +116,5 @@ Typical sequence:
 
 ---
 
-## 📂 Repository Structure (example)
+
 
